@@ -4,9 +4,5 @@ Lysozyme         Human   LYSC_HUMAN  P61626 148
 Hemoglobin-alpha Human   HBA_HUMAN   P69905 142
 Hemoglobin-beta  Human   HBB_HUMAN   P68871 147
 PFKM             Human   PFKAM_HUMAN P08237 780
-<<<<<<< HEAD
-PfKM             Mouse   PFKAM_MOUSE P47857 780
-=======
-PFkm             Mouse   PFKAM_MOUSE P47857 780
->>>>>>> 4b2f67c126ec39c9648b9c01b93f58891624d7ef
+PFKM             Mouse   PFKAM_MOUSE P47857 780
 PFKM             Rat     PFKM_RAT    P47858 780
